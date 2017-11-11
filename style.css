@@ -7,7 +7,7 @@ header {
 header nav {
   float: right;
 }
-header ul {
+header nav.ul {
   padding: 0; margin: 40px 0 0;
 }
 body {
